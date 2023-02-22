@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Button } from 'react-bootstrap'
-import "./Login.css";
+import "../styles/Login.css";
 import { useNavigate } from 'react-router-dom';
 
 function Login() {
