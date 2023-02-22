@@ -3,7 +3,7 @@ import Button from 'react-bootstrap/Button';
 
 import { BiUpArrowAlt } from "react-icons/bi";
 import { BiDownArrowAlt } from "react-icons/bi";
-import "./Post.css";
+import "../styles/Post.css";
 
 function Post(props) {
     let num1 = props.up;
