@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import "./Home.css";
+import "../styles/Home.css";
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import Post from './Post';
