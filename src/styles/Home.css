@@ -1,0 +1,32 @@
+.head {
+    height: 50px;
+    display: flex;
+    background-color: #b1bcc4;
+}
+
+.img {
+    width: 130px;
+    height: 90px;
+    margin-top: -20px;
+    margin-left: 50px;
+}
+
+.post {
+    margin-left: 380px;
+    height: 37px;
+    margin-top: 7px;
+    border: none;
+    background-color: #5f7ed4;
+    color: white;
+
+}
+
+.login {
+    margin-left: 600px;
+    height: 37px;
+    margin-top: 7px;
+    border: none;
+    background-color: #5f7ed4;
+    color: white;
+
+}
